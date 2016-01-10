@@ -1,0 +1,12 @@
+#!/usr/bin/python2.7
+
+import sys
+from os.path import abspath, dirname, join
+
+try:
+    import nbaindicator
+except ImportError:
+    sys.path.append(abspath(join(dirname(__file__), '..')))
+
+from nbaindicator import indicator
+indicator.main()
