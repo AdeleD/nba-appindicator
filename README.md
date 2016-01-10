@@ -7,14 +7,16 @@
 Open a terminal and run this command into the directory of your choice:
 
 ```
-$ git clone https://github.com/AdeleD/nba-appindicator
+$ git clone git@github.com:AdeleD/nba-appindicator.git
 ```
 
-Then, run:
+Then, inside the nba-appindicator folder, run:
 
 ```
-$ make install
+$ make
 ```
+
+## To launch NBA AppIndicator at startup
 
 Go to Ubuntu "Startup Applications" menu.
 
