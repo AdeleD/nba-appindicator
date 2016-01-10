@@ -1,6 +1,6 @@
 # NBA AppIndicator for Ubuntu Unity
 
-**An application indicator to display NBA games results.**
+**An Application Indicator for Ubuntu to display NBA games results from last night.**
 
 ## Install
 
