@@ -13,6 +13,7 @@ $ git clone git@github.com:AdeleD/nba-appindicator.git
 Then, inside the nba-appindicator folder, run:
 
 ```
+$ cd nba-appindicator
 $ make
 ```
 
