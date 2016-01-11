@@ -1,4 +1,4 @@
-all: install
+all: install run
 
 install:
 	chmod +x bin/nbaindicator
