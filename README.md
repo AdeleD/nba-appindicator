@@ -2,6 +2,8 @@
 
 **An Application Indicator for Ubuntu to display NBA games results from last night.**
 
+<img src="./docs/img/screenshot.png" alt="NBA AppIndicator Screenshot" />
+
 ## Install
 
 Open a terminal and run this command into the directory of your choice:
